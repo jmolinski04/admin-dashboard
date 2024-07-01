@@ -17,12 +17,14 @@ body {
 }
 
 .header {
-  background-color: red;
+  background-color: #ccfbf1;
   height: 20vh;
+  grid-column: 2;
+  grid-row: 1 / 2;
 }
 
 .sidebar {
-  background-color: cyan;
+  background-color: #134e4a;
   display: grid;
   grid-column: 1;
   grid-row: 1 / 3;
@@ -30,6 +32,8 @@ body {
 }
 
 .main {
-  background-color: blue;
+  background-color: #99f6e4;
   height: 80vh;
+  grid-column: 2;
+  grid-row: 2 / 3;
 }
