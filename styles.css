@@ -29,7 +29,7 @@ input {
   width: 500px;
   height: 25px;
   border-radius: 10px;
-  background-color: #99f6e4;
+  background-color: #bae6fd;
   outline: none;
   border: none;
 }
@@ -41,7 +41,7 @@ input {
 }
 
 .header {
-  background-color: #ccfbf1;
+  background-color: #f0f9ff;
 
   grid-column: 2;
   grid-row: 1 / 2;
@@ -50,7 +50,7 @@ input {
 }
 
 .sidebar {
-  background-color: #134e4a;
+  background-color: #0284c7;
   display: grid;
   grid-column: 1;
   grid-row: 1 / 3;
@@ -58,7 +58,7 @@ input {
 }
 
 .main {
-  background-color: #99f6e4;
+  background-color: #bae6fd;
   grid-column: 2;
   grid-row: 2 / 3;
 }
